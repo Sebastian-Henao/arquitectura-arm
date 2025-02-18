@@ -1,8 +1,14 @@
+<<<<<<< HEAD
 #README
 ### **Orígenes (1980 - 1990)**  
 La historia de ARM comenzó en **Acorn Computers**, una empresa británica que desarrollaba computadoras personales. En 1983, Acorn necesitaba un procesador más eficiente para sus computadoras y decidió diseñar su propia arquitectura basada en la filosofía **RISC (Reduced Instruction Set Computing)**, que simplifica las instrucciones del procesador para mejorar el rendimiento y reducir el consumo de energía.  
 
 En 1985, Acorn lanzó el **Acorn RISC Machine (ARM1)**, su primer procesador RISC de 32 bits. Poco después, en 1987, apareció el **ARM2**, que fue utilizado en la computadora **Acorn Archimedes**. Este procesador destacaba por su eficiencia energética y buen rendimiento en comparación con otros de la época.  
+=======
+La arquitectura ARM se utiliza en una variedad de aplicaciones y dispositivos debido a su eficiencia energética y rendimiento. algunos ejemplos son:
+
+1) Smartphones y Tablets: La mayoría de los dispositivos móviles modernos, como los teléfonos inteligentes y tabletas, utilizan procesadores ARM debido a su bajo consumo de energía y duración de la batería prolongada.
+>>>>>>> Sebastian-Henao
 
 ### **Fundación de ARM Ltd. (1990 - 2000)**  
 En 1990, **Acorn Computers**, junto con **Apple** y **VLSI Technology**, fundaron la empresa **Advanced RISC Machines Ltd.** (ARM Ltd.), con el objetivo de diseñar y licenciar procesadores basados en su arquitectura.  
@@ -11,6 +17,7 @@ Durante los años 90, ARM creció rápidamente debido a su modelo de negocio de 
 
 En 1993, ARM lanzó el **ARM6**, y en 1994, el **ARM7**, que fue ampliamente utilizado en dispositivos portátiles y embebidos.  
 
+<<<<<<< HEAD
 ### **Expansión con dispositivos móviles (2000 - 2010)**  
 En los 2000, ARM se convirtió en el estándar para dispositivos móviles. La mayoría de los primeros teléfonos celulares y asistentes digitales personales (PDA) usaban procesadores ARM debido a su **bajo consumo energético**.  
 
@@ -66,3 +73,6 @@ En 2021, ARM anunció **ARMv9**, la nueva generación de su arquitectura, con me
 Se espera que ARM continúe creciendo, especialmente con la expansión de **IA, computación en la nube y automóviles autónomos**.  
 
 
+=======
+5) Dispositivos de Realidad Aumentada y Virtual: Algunos dispositivos de realidad aumentada y virtual también utilizan procesadores ARM para su eficiencia y rendimient
+>>>>>>> Sebastian-Henao
