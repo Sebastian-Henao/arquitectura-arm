@@ -39,3 +39,4 @@ Modos de ejecución: Soporta diferentes niveles de ejecución, como modo usuario
 
 Con la creciente adopción de ARM en servidores y la evolución hacia ARMv9, esta arquitectura sigue expandiéndose y ganando terreno frente a x86 en diversas aplicaciones.
 >>>>>>> 652c4a61d8d1aa6dabe2866b1552fcc3dbef8369
+
