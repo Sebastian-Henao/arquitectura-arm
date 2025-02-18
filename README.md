@@ -22,6 +22,7 @@ Un procesador ARM tiene varios tipos de registros, que pueden variar según la v
 - **CPSR (Current Program Status Register):** Indica el estado del procesador con bits de condición (N, Z, C, V) y bits de control.
 - **SPSR (Saved Program Status Register):** Guarda el CPSR cuando se entra a una interrupción o cambio de modo.
 
+#
 
 # 5 La arquitectura ARM se utiliza en una variedad de aplicaciones y dispositivos debido a su eficiencia energética y rendimiento. algunos ejemplos son:
 
