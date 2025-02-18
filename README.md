@@ -1,4 +1,3 @@
-
 # 1 Introducción a la Arquitectura ARM
 
 La arquitectura ARM (Advanced RISC Machine) es una de las arquitecturas de procesadores más utilizadas en 
@@ -164,6 +163,23 @@ Este código sirve para realizar una suma de dos números y mostrar el resultado
 4. **add r0, r0, r1:** Realiza la suma de los valores en los registros r0 y r1, y almacena el resultado en r0.
 5. **mov r7, #1:** Prepara la llamada al sistema para terminar el programa.
 6. **swi 0:** Genera una interrupción para finalizar la ejecución.
+
+# 5 Aplicaciones
+
+La arquitectura ARM se utiliza en una variedad de aplicaciones y dispositivos debido a su eficiencia energética y rendimiento. algunos ejemplos son:
+
+1) Smartphones y Tablets: La mayoría de los dispositivos móviles modernos, como los teléfonos inteligentes y tabletas, utilizan procesadores ARM debido a su bajo consumo de energía y duración de la batería prolongada.
+
+2) Ordenadores Portátiles y Convertibles: Algunos ordenadores portátiles y convertibles, especialmente aquellos que buscan una mayor duración de la batería, utilizan procesadores ARM.
+
+3) Sistemas Embebidos: Los sistemas embebidos, como los que se encuentran en electrodomésticos inteligentes, automóviles y dispositivos IoT (Internet de las Cosas), a menudo utilizan procesadores ARM.
+
+4) Servidores y Centros de Datos: Algunos servidores y centros de datos están comenzando a adoptar procesadores ARM debido a su eficiencia energética y capacidad de manejar cargas de trabajo específicas
+
+5) Dispositivos de Realidad Aumentada y Virtual: Algunos dispositivos de realidad aumentada y virtual también utilizan procesadores ARM para su eficiencia y rendimient
+
+Otras de sus aplicaciones son en la creacion de microprocesadores, desde los mas simples, hasta para ordenadores personales, algunas
+de los dispositivos que usan estos microprocesadores son las IPad Pro de Apple.
 
 # Anexo
 
